@@ -4,7 +4,6 @@
 - 💞️ I’m looking to collaborate on ML projects
 - 📫 How to reach me nmamataziz@gmail.com
 - 😄 Pronouns: he
-- ⚡ Fun fact: ...
 
 <!---
 mamataziz/mamataziz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
